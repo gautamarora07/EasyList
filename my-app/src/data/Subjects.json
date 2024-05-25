@@ -1,0 +1,36 @@
+[
+    {
+      "section": "AI3",
+      "subjects": [
+        "EA",
+        "DAA",
+        "RIS",
+        "CD",
+        "CV",
+        "IM",
+        "EA_LAB",
+        "DAA_LAB",
+        "SEMINAR"
+      ]
+    },
+    {
+      "section": "AI2",
+      "subjects": [
+        "DBMS",
+        "DSUC",
+        "COA",
+        "OS",
+        "DLD",
+        "IS"
+      ]
+    },
+    {
+      "section": "AI1",
+      "subjects": [
+        "Subject1",
+        "Subject2",
+        "Subject3"
+      ]
+    }
+  ]
+  

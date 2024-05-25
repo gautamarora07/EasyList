@@ -1,0 +1,429 @@
+[
+  {
+    "id": 0,
+    "c_roll": 1,
+    "name": "ABHAY PRATAP SINGH",
+    "u_roll": 1210439002
+  },
+  {
+    "id": 1,
+    "c_roll": 2,
+    "name": "ABHINAV SINGH",
+    "u_roll": 1210439003
+  },
+  {
+    "id": 2,
+    "c_roll": 3,
+    "name": "ABHIUDAY PAL",
+    "u_roll": 1210439005
+  },
+  {
+    "id": 3,
+    "c_roll": 4,
+    "name": "ADITYA KUMAR VERMA",
+    "u_roll": 1210439007
+  },
+  {
+    "id": 4,
+    "c_roll": 5,
+    "name": "ADITYA SINGH",
+    "u_roll": 1210439008
+  },
+  {
+    "id": 5,
+    "c_roll": 6,
+    "name": "ADITYA YADAV",
+    "u_roll": 1210439009
+  },
+  {
+    "id": 6,
+    "c_roll": 7,
+    "name": "AJAY SHANKAR RAI",
+    "u_roll": 1210439010
+  },
+  {
+    "id": 7,
+    "c_roll": 8,
+    "name": "AMAN SINGH",
+    "u_roll": 1210439011
+  },
+  {
+    "id": 8,
+    "c_roll": 9,
+    "name": "AMARDEEP SINGH",
+    "u_roll": 1210439012
+  },
+  {
+    "id": 9,
+    "c_roll": 10,
+    "name": "ANANT MADHAV PATHAK",
+    "u_roll": 1210439013
+  },
+  {
+    "id": 10,
+    "c_roll": 11,
+    "name": "ANAS SIDDIQUI",
+    "u_roll": 1210439014
+  },
+  {
+    "id": 11,
+    "c_roll": 12,
+    "name": "ANKIT UPADHYAY",
+    "u_roll": 1210439015
+  },
+  {
+    "id": 12,
+    "c_roll": 13,
+    "name": "ANKUSH VERMA",
+    "u_roll": 1210439016
+  },
+  {
+    "id": 13,
+    "c_roll": 14,
+    "name": "ANURAG SINGH",
+    "u_roll": 1210439018
+  },
+  {
+    "id": 14,
+    "c_roll": 15,
+    "name": "ARUN KUMAR VERMA",
+    "u_roll": 1210439019
+  },
+  {
+    "id": 15,
+    "c_roll": 16,
+    "name": "ARYAN VERMA",
+    "u_roll": 1210439022
+  },
+  {
+    "id": 16,
+    "c_roll": 17,
+    "name": "ARYAN YADAV",
+    "u_roll": 1210439023
+  },
+  {
+    "id": 17,
+    "c_roll": 18,
+    "name": "DEEPAK DIXIT",
+    "u_roll": 1210439025
+  },
+  {
+    "id": 18,
+    "c_roll": 19,
+    "name": "DEEPAK YADAV",
+    "u_roll": 1210439026
+  },
+  {
+    "id": 19,
+    "c_roll": 20,
+    "name": "DIVYANSHI SINGH",
+    "u_roll": 1210439027
+  },
+  {
+    "id": 20,
+    "c_roll": 21,
+    "name": "GAUTAM ARORA",
+    "u_roll": 1210439028
+  },
+  {
+    "id": 21,
+    "c_roll": 22,
+    "name": "GYANENDRA PRATAP SINGH",
+    "u_roll": 1210439029
+  },
+  {
+    "id": 22,
+    "c_roll": 23,
+    "name": "GYANENDRA SINGH",
+    "u_roll": 1210439030
+  },
+  {
+    "id": 23,
+    "c_roll": 24,
+    "name": "HIMANSHU SINGH",
+    "u_roll": 1210439031
+  },
+  {
+    "id": 24,
+    "c_roll": 25,
+    "name": "ISHA GUPTA",
+    "u_roll": 1210439032
+  },
+  {
+    "id": 25,
+    "c_roll": 26,
+    "name": "JINNAT PARWIN",
+    "u_roll": 1210439033
+  },
+  {
+    "id": 26,
+    "c_roll": 27,
+    "name": "KAMAL NAYAN TRIPATHI",
+    "u_roll": 1210439034
+  },
+  {
+    "id": 27,
+    "c_roll": 28,
+    "name": "KIRAT RANDHAWA",
+    "u_roll": 1210439035
+  },
+  {
+    "id": 28,
+    "c_roll": 29,
+    "name": "KRISHNA RAJPUT",
+    "u_roll": 1210439036
+  },
+  {
+    "id": 29,
+    "c_roll": 30,
+    "name": "KUSHAGRA RATHORE",
+    "u_roll": 1210439037
+  },
+  {
+    "id": 30,
+    "c_roll": 31,
+    "name": "KUSHAL GUPTA",
+    "u_roll": 1210439038
+  },
+  {
+    "id": 31,
+    "c_roll": 32,
+    "name": "MD DANISH",
+    "u_roll": 1210439039
+  },
+  {
+    "id": 32,
+    "c_roll": 33,
+    "name": "MOHAMMAD YASEEN ABDUL AZIZ",
+    "u_roll": 1210439040
+  },
+  {
+    "id": 33,
+    "c_roll": 34,
+    "name": "MOHD ADEEB ALI RIZVI",
+    "u_roll": 1210439041
+  },
+
+  {
+    "id": 34,
+    "c_roll": 35,
+    "name": "MOHD ARBAB",
+    "u_roll": 1210439042
+  },
+  {
+    "id": 35,
+    "c_roll": 36,
+    "name": "NARAYAN TRIPATHI",
+    "u_roll": 1210439044
+  },
+  {
+    "id": 36,
+    "c_roll": 37,
+    "name": "NEELMANI SINGH",
+    "u_roll": 1210439045
+  },
+  {
+    "id": 37,
+    "c_roll": 38,
+    "name": "NIRBHAY PRATAP SINGH",
+    "u_roll": 1210439046
+  },
+  {
+    "id": 38,
+    "c_roll": 39,
+    "name": "OM HARI SINGH YADAV",
+    "u_roll": 1210439047
+  },
+  {
+    "id": 39,
+    "c_roll": 40,
+    "name": "PRINCE SONI",
+    "u_roll": 1210439049
+  },
+  {
+    "id": 40,
+    "c_roll": 41,
+    "name": "PRIYANSHU SINGH",
+    "u_roll": 1210439050
+  },
+  {
+    "id": 41,
+    "c_roll": 42,
+    "name": "PRIYANSHU SINGH",
+    "u_roll": 1210439051
+  },
+  {
+    "id": 42,
+    "c_roll": 43,
+    "name": "RAJ KISHOR",
+    "u_roll": 1210439052
+  },
+  {
+    "id": 43,
+    "c_roll": 44,
+    "name": "RAJ KUMAR",
+    "u_roll": 1210439053
+  },
+  {
+    "id": 44,
+    "c_roll": 45,
+    "name": "RISHAV KUMAR MISHRA",
+    "u_roll": 1210439055
+  },
+  {
+    "id": 45,
+    "c_roll": 46,
+    "name": "SACHIN GAUTAM",
+    "u_roll": 1210439056
+  },
+  {
+    "id": 46,
+    "c_roll": 47,
+    "name": "SANTOSH JAISWAL",
+    "u_roll": 1210439057
+  },
+  {
+    "id": 47,
+    "c_roll": 48,
+    "name": "SAPNA KUMARI",
+    "u_roll": 1210439058
+  },
+  {
+    "id": 48,
+    "c_roll": 49,
+    "name": "SATYABRAT SINGH",
+    "u_roll": 1210439061
+  },
+  {
+    "id": 49,
+    "c_roll": 50,
+    "name": "SAURAV KUMAR",
+    "u_roll": 1210439062
+  },
+  {
+    "id": 50,
+    "c_roll": 51,
+    "name": "SHALIM RAZA KHAN",
+    "u_roll": 1210439063
+  },
+  {
+    "id": 51,
+    "c_roll": 52,
+    "name": "SHAMBHAVI PANDEY",
+    "u_roll": 1210439064
+  },
+  {
+    "id": 52,
+    "c_roll": 53,
+    "name": "SHAMBHAVI TRIPATHI",
+    "u_roll": 121043906
+  },
+  {
+    "id": 53,
+    "c_roll": 54,
+    "name": "SHASHWAT SRIVASTAVA",
+    "u_roll": 1210439066
+  },
+  {
+    "id": 54,
+    "c_roll": 55,
+    "name": "SHIMPI KUMARI",
+    "u_roll": 1210439067
+  },
+  {
+    "id": 55,
+    "c_roll": 56,
+    "name": "SHIVANSH KUMAR",
+    "u_roll": 1210439068
+  },
+  {
+    "id": 56,
+    "c_roll": 57,
+    "name": "SHUBHAM VERMA",
+    "u_roll": 1210439071
+  },
+  {
+    "id": 57,
+    "c_roll": 58,
+    "name": "SHUSHIL SUYEL",
+    "u_roll": 1210439072
+  },
+  {
+    "id": 58,
+    "c_roll": 59,
+    "name": "SIMRAN",
+    "u_roll": 1210439073
+  },
+  {
+    "id": 59,
+    "c_roll": 60,
+    "name": "SONICA SINGH",
+    "u_roll": 1210439074
+  },
+  {
+    "id": 60,
+    "c_roll": 61,
+    "name": "SUDHANSHU SINGH",
+    "u_roll": 1210439075
+  },
+  {
+    "id": 61,
+    "c_roll": 62,
+    "name": "UJJWAL SHUKLA",
+    "u_roll": 1210439077
+  },
+  {
+    "id": 62,
+    "c_roll": 63,
+    "name": "VAISHNAVI KASHYAP",
+    "u_roll": 1210439078
+  },
+  {
+    "id": 63,
+    "c_roll": 64,
+    "name": "VIJAYLAXMI YADAV",
+    "u_roll": 1210439080
+  },
+  {
+    "id": 64,
+    "c_roll": 65,
+    "name": "VISHAL MISHRA",
+    "u_roll": 1210439082
+  },
+  {
+    "id": 65,
+    "c_roll": 66,
+    "name": "YASH PATHAK",
+    "u_roll": 1210439083
+  },
+  {
+    "id": 66,
+    "c_roll": 67,
+    "name": "YASHVEER SINGH",
+    "u_roll": 1210439084
+  },
+  {
+    "id": 67,
+    "c_roll": 68,
+    "name": "YUYUTSU SINGH",
+    "u_roll": 1210439085
+  },
+  {
+    "id": 68,
+    "c_roll": 69,
+    "name": "ZISHAN",
+    "u_roll": 1210439086
+  },
+  {
+    "id": 69,
+    "c_roll": 70,
+    "name": "ADITYA RAI",
+    "u_roll": 1210439087
+  },
+  {
+    "id": 70,
+    "c_roll": 71,
+    "name": "SHREYA RAWAT",
+    "u_roll": 2220439004
+  }
+]

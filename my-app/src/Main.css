@@ -1,0 +1,490 @@
+
+input,
+textarea,
+button,
+div,
+select,
+a, *{
+    -webkit-tap-highlight-color: transparent;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.main-container
+{
+    margin: 1.5rem auto;
+    height: 100%;
+    width: 90vw;
+    position: relative;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(255,255,255,0.3);
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    overflow: hidden;
+
+
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.head-container
+{
+    background-color: #ffffffc7;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0.2rem;
+    margin: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(255,255,255,0.5);
+    font-size: 0.8rem;
+    font-weight: 500;    
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+.section-options
+{
+    display:  flex;
+    justify-content: center;
+    margin: 0.5rem;
+}
+
+.section-options select
+{
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 2rem;
+    background: black;
+    text-align: center;
+    color: white;
+    font-size:0.8rem;
+    border-radius: 5px;
+}
+.section-options select option
+{
+    cursor: pointer;
+    border: none;
+    outline: none;
+    height: 2rem;
+    font-size:0.8rem;
+    font-weight : bolder;
+    border-radius: 5px;
+    background: black;
+    color : white;
+   
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+.head-options
+{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    cursor: pointer;
+    font-size: 0.8rem;
+}
+
+.head-options div 
+{    
+    padding : 0.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.head-options div input
+{
+    cursor: pointer;
+    height: 0.7rem;
+  
+}
+.head-options div label
+{
+    margin : 0.2rem;
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+
+#customHeading
+{
+    display: block;
+    width: 100%;
+    margin: 0.3rem auto;
+    padding: 0.6rem;
+    font-size: 0.8rem;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    color: #000;
+    border: none;
+    outline: none;
+    
+}
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.head-subject
+{
+    width: 15%;
+    
+}
+
+
+.head-subject select
+{
+    border: none;
+    outline: none;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    padding: 0.5rem;
+    margin: 0.3rem auto;
+    border-radius: 5px;
+    background: white;
+    color: #000;
+    width: 100%;
+}
+
+
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.data-container
+{
+    border: 2px solid black;
+    width: 90% ;
+   
+    margin: 1rem auto;
+    background-color: whitesmoke;
+    padding: 0.8rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    overflow: hidden;
+    gap: 10px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.selectAll-container
+{    width: 100%;
+    display:  flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.selectAll-div
+{
+    width: 2.5rem;
+    background-color: #000;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+    font-size: 1.5rem;
+    font-weight: 500;
+    padding: 1px;
+    margin-top: 0.5rem;
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.selectAll-div label{
+    cursor: pointer;
+}
+
+.selectAll-div label input
+{
+    display: none;
+    cursor: pointer;
+    margin-right: 5px;
+
+}
+
+.hideNames-div{
+    display :none;
+}
+
+
+
+.checkbox
+{
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 5px rgb(0,0,0,.1);
+    cursor: pointer;
+    font-size: 0.8rem;
+    gap : 5px;
+
+}
+
+.checkbox:hover{
+    border: 1px solid black;
+    box-shadow: 0 0 5px rgb(0,0,0,.3);
+
+}
+
+.checkbox input:hover{
+    cursor: pointer;
+}
+
+
+.print-btn
+{
+    width: 5rem;
+    height: 3rem;
+    border-radius: 10px;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    color: white;
+    background-color: black;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+#PDF-icon
+{
+    font-size: 2rem;
+}
+
+.print-btn:hover
+{
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.count
+{
+   position: absolute;
+   bottom:10px; left:0;
+   border-radius: 0 10px 10px 0;
+   box-shadow: 0 0 8px rgba(0,0,0,0.2);
+   padding: 0.5rem;
+   z-index: 3;
+   background-color: black;
+   color: #fff;
+   
+}
+
+.hide-class
+{
+    display: none;
+}
+
+.active-btn
+{
+    color: royalblue !important;
+}
+/*================================================================================================================================*/
+
+
+@media  screen and (max-width  : 660px) {
+    .main-container
+    {
+        background-color: transparent;
+        margin-bottom: 4rem;
+        overflow: visible;
+
+    }
+
+
+    .data-container
+    {
+        grid-template-columns: 1fr  1fr;
+        height: 100%;
+        border-radius: 8px;
+        background-color: #ffffffc2;
+        box-shadow: 0 0 15px rgba(255,255,255,0.5);
+        width: 99% ;
+        margin: 0.6rem auto;
+        padding-top: 1.5rem;
+    }
+
+
+
+
+    .checkbox
+{
+    height: 3.5rem;    
+    font-weight: 500;
+    padding: 0.6rem;
+   text-align: left;
+    font-size: 0.6rem;
+    gap : 2px;
+    font-weight: bold;
+
+}
+
+
+.hide-checkbox
+{
+    height: 2.5rem;
+    width: 3rem;
+    padding: 0.4rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hide-data
+{
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.hide-cb-text
+{
+    font-size: 0.7rem;
+    
+}
+.hide-class
+{
+    display: none;
+}
+.head-container
+{
+        font-size: 0.7rem;
+}
+
+.head-options
+{
+    width: 100%;
+}
+
+.head-subject
+{
+    width: 60%;
+    
+}
+
+.head-subject select
+{
+    margin: 0.3rem auto;
+    padding: 0.5rem;
+    font-size: 0.8rem;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+}
+
+.selectAll-container
+{
+    justify-content: flex-end;
+    gap: 0.6rem;
+    margin-bottom: -25px;
+    margin-right: 40px;
+    margin-left: 1rem;
+    z-index: 2;
+    width: 100%;
+}
+
+
+
+.selectAll-div
+{
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.selectAll-div label span
+{
+    font-size: 1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hideNames-div{
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    background-color: #000;
+    color: #fff;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+    font-size: 1.7rem;
+    font-weight: 500;
+    padding: 2px;
+    margin-top: 0;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+.hideNames-div span
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.print-container
+{
+    width:100%;
+    height: 3.5rem;
+    background-color: white;
+    
+    padding: 0.8rem;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    position: fixed;
+    bottom: 0; left: 0;    
+}
+
+.print-btn
+{
+    width: 4.5rem;
+    height: 4.5rem;
+    border-radius: 50%;
+    margin: 0;
+    margin-bottom: 5px;
+    padding: 0.2rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    border: 5px solid #fff;
+
+}
+
+
+.count
+{
+   bottom:10px; left: 0; 
+   font-size: 0.78rem;
+   font-weight: 600;
+   padding: 0.3rem;
+   padding-left: 2px;
+   z-index: 3;
+  letter-spacing: 0.3px;
+   
+}
+
+#PDF-icon
+{
+    margin: 0.2rem  0 0 0.4rem ;
+}
+    
+}
+
+/*================================================================================================================================*/
+
+
+@media  screen and (max-width  : 280px) {
+    .hide-data
+{
+    grid-template-columns: 1fr  1fr 1fr;
+}
+}
